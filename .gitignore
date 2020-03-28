@@ -8,3 +8,5 @@ wp-content/plugins
 .htaccess
 conf
 logs
+css
+js
